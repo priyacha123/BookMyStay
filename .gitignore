@@ -14,4 +14,4 @@ lerna-debug.log*
 !.vscode/extensions.json
 .env
 
-package-lock.json
+/server/package-lock.json
